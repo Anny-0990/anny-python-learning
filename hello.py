@@ -1,3 +1,6 @@
 print("Hello, my name is Anny")
 print("I am learning Python for Outreachy")
-print ("I am learning one step at a time") 
+print ("I am learning one step at a time")
+print("Today I opened GitHub on my own")
+print("I will keep going even when it is hard")
+print("I am proud of my progress")
