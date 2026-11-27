@@ -1,10 +1,11 @@
+# Technical Writing Practice Project - Documentation and Python
 # Anny's Python Learning
 
 Hello, my name is Anny. I am learning Python for Outreachy.
 
 ## What is this project?
 This project is my first step in learning Python and GitHub.
-I am applying for Outreachy February 2027 for Documentation.
+I am applying for Outreachy May 2027 for Documentation.
 
 ## What does hello.py do?
 When you run hello.py, it prints 6 lines:
